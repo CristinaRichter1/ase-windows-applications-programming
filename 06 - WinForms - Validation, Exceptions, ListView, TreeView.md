@@ -86,8 +86,12 @@
 3. Create the following UI:    
 ![Browser App Preview](docs/6/listview-ui.png)
 4. Add a new folder to your project and name it “Entities”
-5. Inside the “Entities” folder add the following “Participant” class:
 
+	Solution Explorer > right click on “ListViewSample” > Add > New Folder > name it “Entities”
+	
+5. Inside the “Entities” folder add the following “Participant” class:
+	Solution Explorer > right click on "Entities" Folder > Add > Class > name it "Participant"
+	
 	```c#
 	internal class Participant
 	{
